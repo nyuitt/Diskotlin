@@ -1,2 +1,2 @@
 # Diskotlin
-A Discord bot made in Kotlin
+A Discord bot made in Kotlin.
