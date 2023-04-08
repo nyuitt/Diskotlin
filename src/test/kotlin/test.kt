@@ -78,3 +78,7 @@ suspend fun curiosidade(mensagemDados: Message){
 }
 
 
+
+
+
+
