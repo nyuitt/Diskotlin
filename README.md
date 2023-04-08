@@ -15,7 +15,15 @@ Comandos atuais disponíveis:
 <p>
 
 
+
 ```
 !info -> exibe informações sobre o PEXISBOT
 !curiosidade -> apresenta uma curiosidade aleatória sobre a PXA 
-!ping -> simplesmente "pingpong" da pexisa.```
+!ping -> simplesmente "pingpong" da pexisa.
+```
+
+
+<h2>Tecnologias utilizadas no projeto<h2>
+
+<li> Intellij IDEA
+<li> Kotlin
