@@ -17,9 +17,9 @@ Comandos atuais disponíveis:
 
 
 ```
-!info -> exibe informações sobre o PEXISBOT
-!curiosidade -> apresenta uma curiosidade aleatória sobre a PXA 
-!ping -> simplesmente "pingpong" da pexisa.
+!info -> exibe informações sobre o bot
+!curiosidade -> Envia aleatoriamente uma palavra armazenada na variavel **curiosidades**
+!ping -> responde com "Pong", reage com um emoji e apaga a mensagem logo em seguida.
 ```
 
 
@@ -27,3 +27,14 @@ Comandos atuais disponíveis:
 
 <li> Intellij IDEA
 <li> Kotlin
+
+<h2>Repositorios<h2>
+<li> mavenCentral
+
+<h2>Dependencias<h2>
+
+```
+implementation("dev.kord", "kord-core", "0.8.1")
+implementation("me.jakejmattson:DiscordKt:0.23.4")
+```
+
